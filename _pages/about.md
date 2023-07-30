@@ -20,7 +20,7 @@ author: false
 I like to think about Politics , Science. I hold some <strong>Extreme</strong> view on certain social issues and situation like <strong>LGBTQ+ , Abortion</strong>.<br> I am a Conservative and a Traditionalist.
 <hr>
 
-         </p>
+         
 
    </div>
 <br />
