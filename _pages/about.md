@@ -6,7 +6,7 @@ content-type: eg
 author: false
 ---
 
-      <p class="text-center">
+    
    <div class="col-lg-8">
 
    <div class="text-center">
@@ -25,4 +25,4 @@ I like to think about Politics , Science. I hold some <strong>Extreme</strong> v
    </div>
 <br />
    </div>
-</div>
+
