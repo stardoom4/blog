@@ -363,11 +363,11 @@ hr {
 }
 
 .default-color {
-  color: #555 !important;
+  color: #fff !important;
 }
 
 .default-background {
-  background-color: #f7f7f7 !important;
+  background-color: #141414 !important;
 }
 
 /* Common custom components between Main Site and Notes: Searchbar, Backbutton, ContentBox, Related Posts/Notes, Copyright,  */
