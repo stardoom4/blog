@@ -1,3 +1,10 @@
+---
+title: Asking ChatGPT about the future of Sanatan Dharma 
+tags: religion 
+status: ongoing
+tags: religion 
+---
+
 # Asking ChatGPT about the future of Sanatan Dharma.
 
 So I asked ChatGPT about the future of Sanatan Dharma and this was it's answer:
