@@ -1,3 +1,7 @@
+---
+title: List of Purana 
+tags: SanatanDharm 
+---
 ## The 18 Great Purana
 
 > *Vishnu is always pleased with that pure-minded man whose mind is not polluted with anger and other passions.*
