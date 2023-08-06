@@ -1,3 +1,10 @@
+---
+title: Bhagavad Gita, The Timeless Wisdom for Life's Journey
+tags: religion
+status: ongoing
+tags: hinduism
+---
+# Bhagavad Gita, The Timeless Wisdom for Life's Journey
 ![Shree Krishna And Arjuna ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7z2gaQT47f2WR-DVcvS8YfweaSGTIPSnB6w&usqp=CAU)
 > "From a clear knowledge of the Bhagavad-Gita all the goals of human existence become fulfilled. Bhagavad-Gita is the manifest quintessence of all the teachings of the Vedic scriptures."
 > --Acharya Ramanuja
