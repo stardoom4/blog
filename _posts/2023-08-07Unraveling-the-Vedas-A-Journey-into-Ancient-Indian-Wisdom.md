@@ -1,3 +1,10 @@
+---
+title: Unraveling the Vedas, A Journey into Ancient Indian Wisdom
+tags: religion
+status: ongoing
+tags: hinduism
+---
+# Unraveling the Vedas: A Journey into Ancient Indian Wisdom
 
 > "Access to the Vedas is the greatest privilege this century may claim over all previous centuries."
 > --J Robert Oppenheimer 
