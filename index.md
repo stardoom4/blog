@@ -65,4 +65,4 @@ Hence why you do not keep orphan notes: Every time you write a new note, make su
 
 This project is built on [**Enjoyment work**](https://github.com/brennanbrown/enjoyment-work) by [Brennan Kenneth Brown](https://github.com/brennanbrown) a simple yet highly functional jekyll-based theme that combines the best of different worlds. It is a minimal and distraction free theme that strives to provide maximum value all without holding back on any essential features that a user would benefit from or would desire for.
 
-**`May the Force be with you`**
+**May the Force be with you**
