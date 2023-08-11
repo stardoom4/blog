@@ -11,7 +11,7 @@ notes_url: "https://garud.netlify.app/"
 profile_pic: /assets/img/logo.png
 favicon: /assets/img/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://spacemanblog.netlify.app/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://garud.netlify.app/" # the base hostname & protocol for your site, e.g. https://example.com
 theme_color: white
 encoding: utf-8
 
