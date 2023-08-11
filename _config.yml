@@ -7,7 +7,7 @@ author_bio:
 description: "This is My Blog and a Thought Book."
 footer_description:
   'This is Prakhar'
-notes_url: "https://spacemanblog.netlify.app/"
+notes_url: "https://garud.netlify.app/"
 profile_pic: /assets/img/logo.png
 favicon: /assets/img/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog
