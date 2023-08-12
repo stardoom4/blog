@@ -20,15 +20,15 @@ As I am a person who don't talk about his problems and thoughts to his father , 
 You can find a guide [Here](https://enjoyment-work.netlify.app/posts/how-to-setup-enjoyment-work) on how to setup this theme.
 
 **While looking for a theme which will suit my preference I came across many Great themes. Some are listed Below:**
-1. [Drassil Jekyll Theme](https://github.com/Drassil/git-wiki-theme) ==Best wiki Theme==
+1. [Drassil Jekyll Theme](https://github.com/Drassil/git-wiki-theme) **Best Jekyll wiki Theme**
 2. [Jekyll TeXt theme](https://github.com/kitian616/jekyll-TeXt-theme)
-3. [Jekyll Moonwalk Theme](https://github.com/abhinavs/moonwalk) ==A good theme for blog and project showcase==
+3. [Jekyll Moonwalk Theme](https://github.com/abhinavs/moonwalk) **A good theme for blog and project showcase**
 4. [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
 5. [Hugo Digital Garden](https://github.com/apvarun/digital-garden-hugo-theme)
-6. [HB stack Hugo theme](https://github.com/hbstack/theme) ==You should use this theme if you want to create a blog with documentation.==
+6. [HB stack Hugo theme](https://github.com/hbstack/theme) **You should use this theme if you want to create a blog with documentation.**
 7. [Hugo Dolt](https://github.com/HEIGE-PCloud/DoIt)
-8. [Jekyll Digital Garden Template ](https://github.com/maximevaillancourt/digital-garden-jekyll-template) ==Most Famous Digital Garden theme==
-9. [Astro Starlight Documentation Theme](https://github.com/withastro/starlight) ==Professional Documentation Theme==
-10. [Simple Jekyll](https://github.com/raghudotcc/simply-jekyll) ==Base theme of Enjoyment Work==
-11. [Enjoyment work Jekyll theme](https://github.com/brennanbrown/enjoyment-work) ==Best Theme for personal blog with daily journal and notes==
+8. [Jekyll Digital Garden Template ](https://github.com/maximevaillancourt/digital-garden-jekyll-template) **Most Famous Digital Garden theme**
+9. [Astro Starlight Documentation Theme](https://github.com/withastro/starlight) **Professional Documentation Theme**
+10. [Simple Jekyll](https://github.com/raghudotcc/simply-jekyll) **Base theme of Enjoyment Work**
+11. [Enjoyment work Jekyll theme](https://github.com/brennanbrown/enjoyment-work) **Best Theme for personal blog with daily journal and notes**
 <hr>
