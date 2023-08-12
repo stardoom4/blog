@@ -9,16 +9,12 @@ permalink: /
 [[“The first step in blogging is not writing them but reading them.” <br><cite>--- Jeff Jarvis </cite>::lmn]]<mark>Hello There!</mark> This project began development in late 2023 and is intended to serve three purposes:[[“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.” <br><cite>--- Andrew Sullivan</cite>::rmn]]
 
 1. [**Catalogue of Notes:**](/notes)
-   - For note taking. I always wanted a note taking application. Then I found obsidian, But wanted it to be in website form so I chose this Jekyll theme.
+   - For note taking. I take notes on various different topics but now I will release them to Public.
 2. [**Daily Progress Journal:**](/journals)
    - A weekly/daily/monthly journal to showcase some of my daily wins and loses.
 3. [**A Blog:**](/posts)
    - Finally, a blog where I can write about Politics and astronomy without any problems.
 
-
-## About {{site.title}}
-
-I always wanted a Site where I can share notes and write blogs, But I didn't had any deep technical knowledge of Coding so I choose Jekyll to serve my purpose. Jekyll is Great for a blog and I like it a lot. I looked for a lot of theme but no themes had the feeling I was looking for , then I stumbled upon this theme Named <mark>Enjoyment-work</work> which felt great and the feeling I wanted to feel. I also liked this theme because I found it somewhat similar to gwern.net style, so I used it.
 
 ## Digital Gardens: An Overview
 
