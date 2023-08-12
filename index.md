@@ -3,6 +3,7 @@ layout: page
 permalink: /
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/734e4402-d8d0-42ea-bf25-dd67d3b8ae3b/deploy-status)](https://app.netlify.com/sites/garud/deploys)
 ### Collect. Connect. Create.
 
 [[“The first step in blogging is not writing them but reading them.” <br><cite>--- Jeff Jarvis </cite>::lmn]]<mark>Hello There!</mark> This project began development in late 2023 and is intended to serve three purposes:[[“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.” <br><cite>--- Andrew Sullivan</cite>::rmn]]
