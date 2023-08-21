@@ -6,23 +6,62 @@ content-type: eg
 author: false
 ---
 
-    
-   <div class="col-lg-8">
+**I** am **Garuda** (*Garuda is Not my real name*). I am a **Science Student** with some nerdy elements in my personality. 
 
-   <div class="text-center">
-         <h2>About Me</h2>
-         
-   </div>
+##### My Interests:
+- Philosophy 
+- Astronomy 
+- Science 
+- Religion 
+- Political 
+- Conspiracy Theories 
+- Martial Art
+- Batman 
+- Figure Skating 
 
-   <br />
-   <div class="text-justify mr-2">
-         <p>Hello There!<br> My name is Prakhar and I am a Science Student currently preparing for JEE 20XX and I am From ASIA. <br>
-I like to think about Politics , Science. I hold some <strong>Extreme</strong> view on certain social issues and situation like <strong>LGBTQ+ , Abortion</strong>.<br> I am a Conservative and a Traditionalist.
-<hr>
+##### Some of My favourite Gods and Humans:
 
-         
+**Indian Gods, Indian Kings and Indian Personality:**
+- Prabhu Shree Ram 
+- Shiv ji
+- Hanuman Ji
+- Ved Vyas Ji
+- Maharana Kumbha
+- Maharana Sanga
+- Maharana Pratap
+- Prithvi Raj Chauhan 
+- Veer Savarkar
+- Chandrashekhar Azad
+- And almost All the Freedom *Fighters* excluding MK Gandhi and some more.
+- Homi J Bhabha
+- And all Great Indian Scientists.
 
-   </div>
-<br />
-   </div>
+**Foreign Kings**
+- Baldwin 4
+- King Leonidas Of Sparta
+
+**Personalities and Celebrities (Including Fiction)**
+- Kamila Velieva
+- Yuzuru Hanyu 
+- Jordan B Peterson 
+- Batman
+- Lex Luthor
+- Catwomen 
+- Vladimir Putin 
+- Arnold Schwarzenegger 
+- Aziz Shevershian
+- Brett Cooper
+- Matt walsh 
+- Ben Shapiro
+- Darth Vader 
+- And all *Star wars Characters*
+
+This was **all** I needed to tell the Public but there are many more Personalities I admire but I won't Share There Names.
+
+##### I am Against
+- LGBTQ movement 
+- Abortion 
+- Liberals
+- Communist
+
 
