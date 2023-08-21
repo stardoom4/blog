@@ -4,18 +4,20 @@ permalink: /
 ---
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/734e4402-d8d0-42ea-bf25-dd67d3b8ae3b/deploy-status)](https://app.netlify.com/sites/garud/deploys)
-### Collect. Connect. Create.
 
-[[“The first step in blogging is not writing them but reading them.” <br><cite>--- Jeff Jarvis </cite>::lmn]]<mark>Hello There!</mark> This project began development in late 2023 and is intended to serve three purposes:[[“Blogging is to writing what extreme sports are to athletics: more free-form, more accident-prone, less formal, more alive. It is, in many ways, writing out loud.” <br><cite>--- Andrew Sullivan</cite>::rmn]]
+This Is The Website of Garuda. I write about Religion , Politics , Philosophy and Science.
 
-1. [**Catalogue of Notes:**](/notes)
-   - For note taking. I take notes on various different topics but now I will release them to Public.
-2. [**Daily Progress Journal:**](/journals)
-   - A weekly/daily/monthly journal to showcase some of my daily wins and loses.
-3. [**A Blog:**](/posts)
-   - Finally, a blog where I can write about Politics and astronomy without any problems.
+For information about my site's design see this [post](https://garud.netlify.app/posts/exploring-the-features-of-enjoyment-work). For information about how to create a site using This theme , see this [post](https://enjoyment-work.netlify.app/posts/how-to-setup-enjoyment-work).
+
+Pages you may like to visit:
+
+- [Catalogue of Notes](https://garud.netlify.app/notes)
+- [Journal](https://garud.netlify.app/journals)
+- [Blog](https://garud.netlify.app/posts)
+
 
 ## Archive
+<hr>
 {% for collection in site.collections %} 
  {% if collection.label != "pages" %} 
   
