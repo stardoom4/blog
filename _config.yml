@@ -19,7 +19,7 @@ encoding: utf-8
 repository: https://github.com/stardoom4/blog
 github: https://github.com/stardoom4
 twitter: https://twitter.com/hectorspaceman
-email: artemis4nasa@gmail.com
+email: example@gmail.com
 
 # Build Settings
 theme: null
