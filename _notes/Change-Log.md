@@ -11,14 +11,14 @@ tag: Main
 - [x] Site Name Changed to **SpaceMan** 
 - [x] Deleted some Notes and posts.
 - [x] Site Name Changed to **Garuda**
+- [x] Changing Content of [Home Page](https://garud.netlify.app/)
 
 
 
 ## Future Updates
 
-- [ ] Changing Content of [Home Page](https://garud.netlify.app/)
 - [ ] Add My Favicon
-- [ ] Major Appearance Changed
+- [ ] Appearance Changed
 
 
 
