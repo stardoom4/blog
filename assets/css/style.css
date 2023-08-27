@@ -116,6 +116,7 @@ blockquote {
   border-left: 3px #666 solid;
   font-style: italic;
   font-family: Georgia, serif;
+  background: #000000;
 }
 
 blockquote p {
