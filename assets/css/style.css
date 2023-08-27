@@ -15,6 +15,7 @@ body {
   font-family: Inter, "Segoe UI", Roboto, Oxygen, Cantarell, "Open Sans", "Helvetica Neue", Ubuntu, sans-serif;
   min-height: 450px;
   counter-reset: sidenote-counter;
+  background: #000000;
 }
 
 .box {
@@ -43,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #000000;
+  color: #fff;
   font-weight: 600;
   margin-top: 20px;
 }
@@ -56,7 +57,7 @@ ol,
 table,
 span,
 blockquote {
-  color: #555555;
+  color: #fff;
 }
 
 p,
