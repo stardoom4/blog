@@ -908,7 +908,7 @@ label.srs-toggle {
   display: none;
 }
 
-/* Apparently IE10+ do not support conditionals. F*ck Me! */
+/* Apparently IE10+ do not support conditionals. */
 @media screen and (-ms-high-contrast: active),
 (-ms-high-contrast: none) {
 
@@ -1019,7 +1019,7 @@ label.srs-toggle {
     left: 50%;
     transform: translate(-50%, 50%) rotate(45deg);
     background-color: #fff;
-    box-shadow: 0 1px 8px #ddd;
+    box-shadow: 0 1px #ddd;
   }
 
   .bottom .infotip-title {
@@ -1170,10 +1170,10 @@ figure img {
 }
 
 #site-header a {
-  background-color: #333;
+  background-color: #000000;
   color: #fff;
   padding: 3px 10px;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 #site-header a:hover {
@@ -1183,7 +1183,7 @@ figure img {
 #search-input {
   background-color: #eee;
   color: #333;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 #breadcrumbs {
@@ -1197,14 +1197,14 @@ figure img {
 }
 
 #author {
-  background-color: #212121;
+  background-color: #000000;
   border-radius: 8px;
   padding: 10px;
 }
 
 #author img {
   border-radius: 999px;
-  border: 1px grey solid;
+  border: 1px solid #fff;
   max-height: 250px;
 }
 
