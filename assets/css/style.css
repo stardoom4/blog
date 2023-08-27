@@ -226,7 +226,7 @@ hr {
   padding-left: 20px;
   margin-top: -14px;
   padding-bottom: 8px;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .link-to-notes a {
