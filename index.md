@@ -3,7 +3,6 @@ layout: page
 permalink: /
 ---
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/734e4402-d8d0-42ea-bf25-dd67d3b8ae3b/deploy-status)](https://app.netlify.com/sites/garud/deploys)
 
 This Is The Website of Garuda. I write about Religion , Politics , Philosophy and Science.
 
@@ -30,6 +29,3 @@ Pages you may like to visit:
    {% endif %} 
  {% endfor %}
 
-## Attribution
-
-This project is built on [**Enjoyment work**](https://github.com/brennanbrown/enjoyment-work) by [Brennan Kenneth Brown](https://github.com/brennanbrown) a simple yet highly functional jekyll-based theme that combines the best of different worlds. It is a minimal and distraction free theme that strives to provide maximum value all without holding back on any essential features that a user would benefit from or would desire for.
