@@ -1,15 +1,15 @@
 #toc,
 .toc,
 .mw-warning {
-    background-color: #212121;
-    border: 1px solid #005678;
+    background-color: #000000;
+    border: 1px solid #fff;
     font-size: 95%;
     padding: 5px;
 }
 
 #toc h2,
 .toc h2 {
-    border: medium none;
+    border: none;
     display: inline;
     font-size: 24px;
     font-weight: bold;
