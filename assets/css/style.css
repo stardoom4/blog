@@ -15,7 +15,7 @@ body {
   font-family: Inter, "Segoe UI", Roboto, Oxygen, Cantarell, "Open Sans", "Helvetica Neue", Ubuntu, sans-serif;
   min-height: 450px;
   counter-reset: sidenote-counter;
-  background: #092047;
+  background: #000914;
 }
 
 .box {
@@ -116,7 +116,7 @@ blockquote {
   border-left: 3px #666 solid;
   font-style: italic;
   font-family: Georgia, serif;
-  background: #0b468c;
+  background: #212121;
 }
 
 blockquote p {
