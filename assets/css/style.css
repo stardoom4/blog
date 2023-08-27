@@ -780,6 +780,7 @@ label.srs-toggle {
   font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
   font-weight: 600;
   margin-bottom: 0px;
+  color: #000000;
 }
 
 .related-excerpt:before {
@@ -1176,7 +1177,7 @@ figure img {
 }
 
 #site-header a:hover {
-  color: #fffc99;
+  color: #005678;
 }
 
 #search-input {
@@ -1188,7 +1189,7 @@ figure img {
 #breadcrumbs {
   font-weight: bold;
   font-size: 20px;
-  color: fff;
+  color: #fff;
 }
 
 #breadcrumbs a {
@@ -1226,7 +1227,7 @@ figure img {
 }
 
 #footer a:hover {
-  color: #777;
+  color: #005678;
 }
 
 #tag-grid {
