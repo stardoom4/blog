@@ -1187,6 +1187,7 @@ figure img {
 #breadcrumbs {
   font-weight: bold;
   font-size: 20px;
+  color: fff;
 }
 
 #breadcrumbs a {
@@ -1194,7 +1195,7 @@ figure img {
 }
 
 #author {
-  background-color: #eee;
+  background-color: #212121;
   border-radius: 8px;
   padding: 10px;
 }
