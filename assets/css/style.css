@@ -113,7 +113,7 @@ blockquote:before {
 blockquote {
   font-size: 120%;
   padding: 0 10px;
-  border-left: 3px #666 solid;
+  border-left: 3px #05d7e8 solid;
   font-style: italic;
   font-family: Georgia, serif;
   background: #000000;
@@ -208,7 +208,7 @@ hr {
 }
 
 .dashboard {
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid #05d7e8;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -217,7 +217,7 @@ hr {
 .userboard {
   background-color: #000000;
   width: 100%;
-  border: 1px solid #fff;
+  border: 1px solid #05d7e8;
   border-radius: 3px;
   padding: 3px 10px;
 }
@@ -272,41 +272,41 @@ hr {
   font-size: 20px;
   font-weight: 600;
   padding: 3px 10px;
-  border-right: 1px grey solid;
+  border-right: 1px #05d7e8 solid;
   margin-left: -4px;
 }
 
 .menu a:hover {
-  background-color: #005678;
+  background-color: #05d7e8;
   color: black;
   text-decoration: none;
   /* border-radius: 8px; */
 }
 
 .hashtags i {
-  color: #6f1f91;
+  color: #05d7e8;
 }
 
 .categories i {
-  color: #3878a0;
+  color: #05d7e8;
 }
 
 .archive i {
-  color: #56712d;
+  color: #05d7e8;
 }
 
 .rss i {
-  color: #cfa531;
+  color: #05d7e8;
 }
 
 .donate i {
-  color: #da6064;
+  color: #05d7e8;
 }
 
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
 
 .notes-page-subheader {
-  border-bottom: 1px solid #f7f7f7;
+  border-bottom: 1px solid #05d7e8;
   padding-left: 15px;
 }
 
@@ -389,7 +389,7 @@ hr {
   font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
   color: #555;
   font-size: 18px;
-  border-bottom: 1px solid #f7f7f7;
+  border-bottom: 1px solid #05d7e8;
   background-color: #f7f7f7;
 }
 
@@ -404,13 +404,13 @@ hr {
   vertical-align: middle;
   margin-top: -2px;
   padding-left: 20px;
-  color: #888;
+  color: #05d7e8;
   padding-top: 12.5px;
   z-index: 1;
 }
 
 .searchbar input[type="text"]:focus {
-  border-color: #f7f7f7;
+  border-color: #05d7e8;
   box-shadow: 0 0 8px 0 #a7d0eb;
 }
 
@@ -433,7 +433,7 @@ hr {
 }
 
 .search_res:hover {
-  background-color: #005678;
+  background-color: #05d7e8;
   border-radius: 5px;
 }
 
@@ -446,7 +446,7 @@ hr {
   margin-top: 10px;
   background-color: #212121;
   border-radius: 8px;
-  border: 2px #ddd solid;
+  border: 2px #05d7e8 solid;
 }
 
 .back-icon {
@@ -547,7 +547,7 @@ hr {
 }
 
 .content a {
-  color: #005678;
+  color: #05d7e8;
   text-decoration: underline;
 }
 
@@ -672,7 +672,7 @@ li .mn-left {
   top: 50%;
   transform: translate(50%, -50%) rotate(-45deg);
   background-color: #fff;
-  box-shadow: 0 1px 8px #ddd;
+  box-shadow: 0 1px 8px #05d7e8;
 }
 
 .right .infotip-title {
@@ -695,7 +695,7 @@ input.margin-toggle {
 }
 
 .srs-svg {
-  stroke: #555;
+  stroke: #05d7e8;
 }
 
 label.sidenote-number {
@@ -729,7 +729,7 @@ label.srs-toggle {
   padding: 12px;
   width: 240px;
   background-color: #fff;
-  border: solid 1px #dfdfdf;
+  border: solid 1px #05d7e8;
   border-radius: 5px;
   box-shadow: 1px 1px 15px #cfcfcf;
   word-wrap: break-word;
@@ -806,7 +806,7 @@ label.srs-toggle {
   background-color: transparent;
   background-repeat: no-repeat;
   cursor: pointer;
-  color: #555;
+  color: #05d7e8;
   outline: none;
   border: none;
   overflow: hidden;
@@ -820,9 +820,9 @@ label.srs-toggle {
   padding: 12px 0;
   width: 240px;
   background-color: #fff;
-  border: solid 1px #dfdfdf;
+  border: solid 1px #05d7e8;
   border-radius: 5px;
-  box-shadow: 1px 1px 15px #cfcfcf;
+  box-shadow: 1px 1px 15px #05d7e8;
 }
 
 .context-menu-res li {
@@ -858,9 +858,9 @@ label.srs-toggle {
   padding: 12px 0;
   width: 177px;
   background-color: #fff;
-  border: solid 1px #dfdfdf;
+  border: solid 1px #05d7e8;
   border-radius: 5px;
-  box-shadow: 1px 1px 15px #cfcfcf;
+  box-shadow: 1px 1px 15px #05d7e8;
 }
 
 .context-menu--active {
@@ -1177,7 +1177,7 @@ figure img {
 }
 
 #site-header a:hover {
-  color: #005678;
+  color: #05d7e8;
 }
 
 #search-input {
@@ -1204,7 +1204,7 @@ figure img {
 
 #author img {
   border-radius: 999px;
-  border: 1px solid #fff;
+  border: 1px solid #05d7e8;
   max-height: 250px;
 }
 
@@ -1218,7 +1218,7 @@ figure img {
 
 #footer h2 {
   font-size: 22px;
-  color: #fff;
+  color: #05d7e8;
 }
 
 #footer a {
@@ -1227,7 +1227,7 @@ figure img {
 }
 
 #footer a:hover {
-  color: #005678;
+  color: #05d7e8;
 }
 
 #tag-grid {
