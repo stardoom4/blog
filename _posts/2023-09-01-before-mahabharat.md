@@ -2,6 +2,8 @@
 title: Before Mahabharat
 tags: hinduism
 ---
+![Mahabharat](https://images.herzindagi.info/image/2023/Mar/mahabharat-people-who-are-still-alive-story.jpg)
+
 The discourse between **Shri Krishna** and **Arjun** took place just before the onset of war , a great fratricidal conflict between hundred son of **Dhritrashtra** and on the opposing side their cousin the **Pandav** for the son of **Pandu**.
 
 Dhritrashtra and Pandu were born in Guru dynasty descending from **King Bharat** from whom the **Mahabharat** derives its name dhritrashtra was born blind so The throne was passed down to his younger brother Pandu.
