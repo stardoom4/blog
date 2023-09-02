@@ -8,9 +8,9 @@ This Is The Website of Garuda. I write about Religion , Politics , Philosophy an
 
 Pages you may like to visit:
 
-- [Catalogue of Notes](https://garud.netlify.app/notes)
-- [Journal](https://garud.netlify.app/journals)
-- [Blog](https://garud.netlify.app/posts)
+- [Catalogue of Notes](https://celestialentity.netlify.app/notes)
+- [Journal](https://celestialentity.netlify.app/journals)
+- [Blog](https://celestialentity.netlify.app/posts)
 
 
 ## Archive
