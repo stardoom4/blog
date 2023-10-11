@@ -4,16 +4,13 @@ permalink: /
 ---
 
 
-This Is The Website of Garuda. I write about Religion , Politics , Philosophy and Science.
+This is my Digital Garden where I will write about my thoughts and The things I am have learned. You may want to check the Index
 
-Pages you may like to visit:
-
-- [Catalogue of Notes](https://celestialentity.netlify.app/notes)
-- [Journal](https://celestialentity.netlify.app/journals)
-- [Blog](https://celestialentity.netlify.app/posts)
+page for all of my notes. Or start from [About me and this site](/about)
 
 
-## Archive
+
+
 <hr>
 {% for collection in site.collections %} 
  {% if collection.label != "pages" %} 
