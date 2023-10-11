@@ -4,9 +4,7 @@ permalink: /
 ---
 
 
-This is my Digital Garden where I will write about my thoughts and The things I am have learned. You may want to check the Index
-
-page for all of my notes. Or start from [About me and this site](/about)
+This is my Digital Garden where I will write about my thoughts and The things I am have learned. You may want to check the Index page for all of my notes. Or start from [About me and this site](/about)
 
 
 
