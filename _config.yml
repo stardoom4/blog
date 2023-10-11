@@ -3,10 +3,10 @@ title: "Celestial Entity"
 tagline: "The Grid."
 name: "Garuda "
 author_bio:
-  "I am Garuda"
-description: "A new World is Coming."
+  "Aspiring physicist, and a Self-Made Consipiracy Theorist."
+description: "Aspiring physicist, and a Self-Made Consipiracy Theorist."
 footer_description:
-  'Change is inevitable.'
+  'A Celestial MInd'
 notes_url: "https://garud.netlify.app/"
 profile_pic: /assets/img/logo.png
 favicon: /assets/img/favicon.png
@@ -48,9 +48,6 @@ collections:
   notes:
     output: true
     permalink: /notes/:title
-  journals:
-    output: true
-    permalink: /journals/:title
   pages:
     output: true
     permalink: /page/:name
@@ -74,12 +71,6 @@ defaults:
     values:
       layout: post
       content-type: notes
-  - scope:
-      path: ""
-      type: journals
-    values:
-      layout: post
-      content-type: journals
   - scope:
       path: ""
       type: pages
