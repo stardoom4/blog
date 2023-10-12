@@ -1,6 +1,5 @@
 ---
 title: Vedic Literature (1500 BC- 600 BC)
-layout: note
 tags:
    - religion
    - Hinduism 
